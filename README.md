@@ -16,8 +16,8 @@ In this project you will have 3 files:
 
 **client.py**
 - You will have class `Client` inside this file.
-- Class `Client` will have `account` dictionary as the class variable. This dictionary will keep following info: "account_number, name, total_amount"
-- `__init__` method will initialize this variables, it will take `name` and `total_amount` as params and will assign a random 5 digit int to `account_number`
+- Class `Client` will have `account_number`, `name`, `total_amount` attributes
+- `__init__` method will initialize these variables, it will take `name` and `total_amount` as params and will assign a random 5 digit int to `account_number`
 - Lastly this class will have `withdraw`, `deposit` and `balance` methods.
 
 **main.py**
