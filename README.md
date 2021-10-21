@@ -21,7 +21,8 @@ In this project you will have 3 files:
 - Lastly this class will have `withdraw`, `deposit` and `balance` methods.
 
 **main.py**
-- This class initially will create a bank object with a name you choose and then will print the following menu (it should print this menu, until user says exit) [**hint:** use while loop]:
+- This class initially will create a bank object with a name you choose
+ and then will print the following menu (it should print this menu, until user says exit) [**hint:** use while loop]:
 ```
 Welcome to International Bank!
 
